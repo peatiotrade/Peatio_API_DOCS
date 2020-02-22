@@ -1886,9 +1886,8 @@
 
 The MIT License (MIT)
 =====================
-
-Copyright © `2019` `Peatio Trade`
-Copyright © `2018` `Helios Technologies`
+</p>Copyright © 2018 Helios Technologies</p>
+</p>Copyright © 2019 Peatio Trade</p>
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
